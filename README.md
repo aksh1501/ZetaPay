@@ -1,4 +1,4 @@
-# anmpay
+# ZetaPay
 
 ## Project setup
 ```
